@@ -27,11 +27,11 @@ Comportamento - Coisas que eu faço (**Métodos**):
 Estado atual - Como eu estou agora (**Estado**): 
 
 **Algoritmo**
-<br><img src="https://github.com/drigoBarbosa/javaPoo/blob/main/imagens_para_md/classe.jpg">
+<br><img src="https://github.com/drigoBarbosa/javaPoo/blob/main/imagens_para_md/classe.jpg" height="300px">
 
 #### Nesse momento estou idealizando uma classe caneta, antes de fazer um objeto eu preciso idealizar a sua classe, preciso saber como será o objeto, o que ela vai fazer, a partir daí eu crio um objeto(instanciar).
 
-<br><img src="https://github.com/drigoBarbosa/javaPoo/blob/main/imagens_para_md/instancia.jpg">
+<br><img src="https://github.com/drigoBarbosa/javaPoo/blob/main/imagens_para_md/instancia.jpg" height="300px">
 #### A cima tenho dois objetos que são instâncias da classe caneta.
 
 
