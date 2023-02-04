@@ -26,14 +26,12 @@ Comportamento - Coisas que eu faço (**Métodos**):
 
 Estado atual - Como eu estou agora (**Estado**): 
 
-**Algoritmo **
-
-![image-20230127184748024](C:\Users\emers\AppData\Roaming\Typora\typora-user-images\image-20230127184748024.png)
+**Algoritmo**
+<br><img src="https://github.com/drigoBarbosa/javaPoo/blob/main/imagens_para_md/classe.jpg">
 
 #### Nesse momento estou idealizando uma classe caneta, antes de fazer um objeto eu preciso idealizar a sua classe, preciso saber como será o objeto, o que ela vai fazer, a partir daí eu crio um objeto(instanciar).
 
-![image-20230127185146542](C:\Users\emers\AppData\Roaming\Typora\typora-user-images\image-20230127185146542.png)
-
+<br><img src="https://github.com/drigoBarbosa/javaPoo/blob/main/imagens_para_md/instancia.jpg">
 #### A cima tenho dois objetos que são instâncias da classe caneta.
 
 
